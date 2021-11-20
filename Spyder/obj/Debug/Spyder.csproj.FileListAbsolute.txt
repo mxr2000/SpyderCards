@@ -1,0 +1,10 @@
+D:\程序\游戏\Spyder\Spyder\bin\Debug\Spyder.exe.config
+D:\程序\游戏\Spyder\Spyder\bin\Debug\Spyder.exe
+D:\程序\游戏\Spyder\Spyder\bin\Debug\Spyder.pdb
+D:\程序\游戏\Spyder\Spyder\obj\Debug\Spyder.csprojAssemblyReference.cache
+D:\程序\游戏\Spyder\Spyder\obj\Debug\Spyder.Form1.resources
+D:\程序\游戏\Spyder\Spyder\obj\Debug\Spyder.Properties.Resources.resources
+D:\程序\游戏\Spyder\Spyder\obj\Debug\Spyder.csproj.GenerateResource.cache
+D:\程序\游戏\Spyder\Spyder\obj\Debug\Spyder.csproj.CoreCompileInputs.cache
+D:\程序\游戏\Spyder\Spyder\obj\Debug\Spyder.exe
+D:\程序\游戏\Spyder\Spyder\obj\Debug\Spyder.pdb
